@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="cd.css">
+</head>
+<body>
+<div class="main-Div">
+ <div class="search-Div">
+ <input class="input-search" type="search" placeholder="write the product name here ....">
+  <button class="search-button"> search</button>
+ </div>
+ <div class="buttons">
+ <button
+  class="button-value"
+  onclick="filterproduct(`all`)">
+  all</button>
+ <button
+  class="button-value"
+   onclick="filterproduct(`watches`)">
+   watches</button>
+ <button 
+ class="button-value"
+  onclick="filterproduct(`cameras`)">
+  cameras</button>
+ <button class="button-value"
+  onclick="filterproduct(`perfumies`)">
+  perfumies</button>
+ <button class="button-value"
+  onclick="filterproduct(`cars`)">
+  cars</button>
+ <button class="button-value" 
+ onclick="filterproduct(`phones`)">
+ phones</button>
+ </div>
+ <div class="products">
+    
+ </div>
+</div>   
+<script src="node.js"></script>
+</body>
+</html>
