@@ -129,7 +129,7 @@ imge:"images (1).jpeg"
     productNam:"the blac car",
     catogery:"cars",
     price:3000,
-    imge:"black car.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/black%20car.jpeg?raw=true"
            
 },
 
