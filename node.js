@@ -137,7 +137,7 @@ imge:"images (1).jpeg"
     productNam:"the gray car",
     catogery:"cars",
     price:3500,
-    imge:"gray card.jpeg"
+    imge:"C:\Users\DELL\first-project\local.m\img\gray card.jpeg"
            
 },
 
