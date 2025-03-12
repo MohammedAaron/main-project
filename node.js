@@ -145,7 +145,7 @@ imge:"images (1).jpeg"
     productNam:"the red car",
     catogery:"cars",
     price:3500,
-    imge:"https://github.com/MohammedAaron/main-project/blob/d672e4a195fa9fc72c78d241db52a28a139f8eee/img/red%20car.jpeg"
+    imge:"img/red car.jpeg"
            
 },
 
