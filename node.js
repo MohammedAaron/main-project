@@ -4,41 +4,41 @@ data:[
 productNam:"the smart watch blak",
 catogery:"watches",
 price: 150,
-imge:"207.webp"
+imge:"https://raw.githubusercontent.com/MohammedAaron/main-project/refs/heads/main/img/207.webp"
 
 },
 {
 productNam:"sparklar watch",
 catogery:"watches",
 price: 1200,
-imge:"black watch.jpeg"
+imge:"https://github.com/MohammedAaron/main-project/blob/main/img/black%20watch.jpeg?raw=true"
 
 },
 {
  productNam:"the iron watch",
  catogery:"watches",
  price: 150,
- imge:"wactc3.jpeg"
+ imge:"https://github.com/MohammedAaron/main-project/blob/main/img/wactc3.jpeg?raw=true"
  },
  {
  productNam:"the black watch",
  catogery:"watches",
  price: 200,
- imge:"wactch2.jpeg"
+ imge:"https://github.com/MohammedAaron/main-project/blob/main/img/wactch2.jpeg?raw=true"
         
 },
 {
     productNam:"the top  watch",
     catogery:"watches",
     price: 500,
-    imge:"watch.jpg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/watch.jpg?raw=true"
            
 },
 {
     productNam:"the top  watch",
     catogery:"watches",
     price: 850,
-    imge:"watch4.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/watch4.jpeg?raw=true"
            
 },
 
@@ -48,7 +48,7 @@ imge:"black watch.jpeg"
     productNam:"lorex camera",
     catogery:"cameras",
     price: 200,
-    imge:"camrea1.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/camrea1.jpeg?raw=true"
            
 },
 
@@ -56,7 +56,7 @@ imge:"black watch.jpeg"
     productNam:"g rx  camera",
     catogery:"cameras",
     price: 200,
-    imge:"camera2.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/camera2.jpeg?raw=true"
            
 },
 
@@ -64,7 +64,7 @@ imge:"black watch.jpeg"
     productNam:"small camera",
     catogery:"cameras",
     price: 200,
-    imge:"camera3.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/camera3.jpeg?raw=true"
            
 },
 
@@ -72,7 +72,7 @@ imge:"black watch.jpeg"
     productNam:"photo camera",
     catogery:"cameras",
     price: 1250,
-    imge:"camera4.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/camera4.jpeg?raw=true"
            
 },
 
@@ -80,7 +80,7 @@ imge:"black watch.jpeg"
     productNam:"photo camera",
     catogery:"cameras",
     price: 1250,
-    imge:"camera5.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/camera5.jpeg?raw=true"
            
 },
 
@@ -92,7 +92,7 @@ imge:"black watch.jpeg"
     productNam:"lox perfume",
     catogery:"perfumies",
     price:400,
-    imge:"perfume1.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/perfume1.jpeg?raw=true"
            
 },
 
@@ -100,7 +100,7 @@ imge:"black watch.jpeg"
     productNam:"mode perfume",
     catogery:"perfumies",
     price:400,
-    imge:"perfume2.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/perfume2.jpeg?raw=true"
            
 },
 
@@ -108,7 +108,7 @@ imge:"black watch.jpeg"
 productNam:"brand perfume",
 catogery:"perfumies",
 price:400,
-imge:"images (1).jpeg"
+imge:""
        
 },
 
@@ -116,7 +116,7 @@ imge:"images (1).jpeg"
     productNam:"vitamin perfume",
     catogery:"perfumies",
     price:300,
-    imge:"vitamin.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/vitamin.jpeg?raw=true"
            
 },
 
@@ -137,7 +137,7 @@ imge:"images (1).jpeg"
     productNam:"the gray car",
     catogery:"cars",
     price:3500,
-    imge:"https://github.com/MohammedAaron/main-project/blob/d672e4a195fa9fc72c78d241db52a28a139f8eee/img/gray%20card.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/gray%20card.jpeg?raw=true"
            
 },
 
@@ -153,7 +153,7 @@ imge:"images (1).jpeg"
     productNam:"the white car",
     catogery:"cars",
     price:3500,
-    imge:"wihte car.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/wihte%20car.jpeg?raw=true"
            
 },
 
@@ -165,7 +165,7 @@ imge:"images (1).jpeg"
     productNam:"sammsung A13",
     catogery:"phones",
     price:500,
-    imge:"sam2.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/sam2.jpeg?raw=true"
            
 },
 
@@ -173,7 +173,7 @@ imge:"images (1).jpeg"
     productNam:"sammsung A12",
     catogery:"phones",
     price:1400,
-    imge:"sammsoing.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/sammsoing.jpeg?raw=true"
            
 },
 
@@ -181,7 +181,7 @@ imge:"images (1).jpeg"
     productNam:"hawawie",
     catogery:"phones",
     price:400,
-    imge:"smart phone.jpeg"
+    imge:"https://github.com/MohammedAaron/main-project/blob/main/img/smart%20phone.jpeg?raw=true"
            
 },
 ]}
